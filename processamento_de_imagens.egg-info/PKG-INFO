@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: processamento_de_imagens
+Version: 0.0.1
+Summary: Pacote para Processamento de imagens
+Home-page: https://github.com/Isaiasdevs/image-processing-package
+Author: Isaias Araújo
+Author-email: araujoisaias.dev@outlook.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Requires-Dist: matplotlib
+
+# package_name
+
+Description. 
+The package package_name is used to:
+	- Histogram Matching
+	- Structural Similarity
+	- Resizing Sizes
+
+Utilities:
+	- Image Reader
+	- Image Savior
+	- Image Viewer
+	- Results Viewer
+	- Histogram Viewer
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Current Project:(https://https://github.com/Isaiasdevs)
+Original Project: (https://https://github.com/tiemi)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -8,7 +8,7 @@ with open("requirements.txt") as f:         # Aponta para o carregamento automá
     requirements = f.read().splitlines()
 
 setup(
-    name = "processamento_de_imagens",
+    name = "processamento_de_imagens_isaias",
     version = "0.0.1",
     author = "Isaias Araújo",
     author_email = "araujoisaias.dev@outlook.com",
